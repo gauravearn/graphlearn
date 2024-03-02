@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "graphlearn"
+version = "0.1.0"
+description = "a graph learning package based on the machine learning approaches for the sequence to graph comparisons. It also implements and integrates the tSNE and the UMAP for the building of the machine learning graph models."
+authors = ["Gaurav Sablok"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
