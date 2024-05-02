@@ -14,7 +14,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`graphlearn` was created by Gaurav Sablok. It is licensed under the terms of the MIT license.
+`graphlearn` was created by Gaurav Sablok. It is licensed under the terms of the MIT license. \
 Gaurav  \
 Academic Staff Member \
 Bioinformatics \
